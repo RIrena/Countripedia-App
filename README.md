@@ -1,6 +1,6 @@
 # Countripedia🌍🌎🌏
 
-## Live demo:
+## Live demo: https://countripedia-app.netlify.app/
 
 Countripedia is an application that is meant to search for countries and get data for them in real-time. The application is very simple. It only has one functionality: Search and show the countries information in a custom cards.
 
